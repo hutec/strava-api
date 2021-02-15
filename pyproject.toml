@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "strava-api"
-version = "0.1.0"
+name = "strava-api-v3"
+version = "1.0.0"
 description = "Swagger-generated Strava API v3 for Python."
 authors = []
 packages = [
